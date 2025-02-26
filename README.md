@@ -72,8 +72,6 @@ Modifications welcome! Please:
 1. Fork the repository
 2. Create feature branch
 3. Submit PR with detailed description
-4. Maintain BSD-3 Clause license
-5. Credit original work
 
 ## 📜 License
 No idea. Do what you want, man. This stuff ain't nothing to me man. I should be solving real problems and improving, not this.
